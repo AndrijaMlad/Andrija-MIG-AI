@@ -1,0 +1,1 @@
+Iako moze da se igra AI vs Covek i so ovoj kod, treba da se modificira kodot malku poradi faktot sto AIot gresi 8% od vremeto za da ne se povtoruvaat partiite. Se preporacuva da se koristi drugiot kod za igranje. 
